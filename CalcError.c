@@ -6,7 +6,7 @@
  *created by Arya HajiTaheri
  */
 #pragma warning(disable:4996)
-int main() {
+int main(void) {
 	double j, k = 0, h = 0.0, N = 0, x = 0;
 	double absErr = 0.0, relErr;
 	printf("Enter k: ");
